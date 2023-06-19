@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A lil' Electron app",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ "scripts": {
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cwervo/electron-play/issues"
   },
-  "homepage": "https://github.com/cwervo/electron-play#readme"
+  "homepage": "https://github.com/cwervo/electron-play#readme",
+  "devDependencies": {
+    "electron": "^25.1.1"
+  }
 }
