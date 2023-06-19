@@ -1,0 +1,19 @@
+{
+  "name": "electron-play",
+  "version": "1.0.0",
+  "description": "A lil' Electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cwervo/electron-play.git"
+  },
+  "author": "Andres Cuervo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwervo/electron-play/issues"
+  },
+  "homepage": "https://github.com/cwervo/electron-play#readme"
+}
